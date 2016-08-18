@@ -1,5 +1,5 @@
 # Browsersync-bat
-The laziest and most flexible solution for starting Browsersync
+The laziest (yet flexible) solution for starting Browsersync
 
 
 ## How?
